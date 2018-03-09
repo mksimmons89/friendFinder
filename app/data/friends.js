@@ -3,7 +3,7 @@ var friendsArray = [
   {
     name: "Jojo",
     photo:
-      "https://i.pinimg.com/1200x/ac/cb/71/accb714f31a4f1a990f2da671fa2d338.jpg",
+      "https://i.pinimg.com/564x/29/f0/3b/29f03baf35f0cdf28727025ecf00b362.jpg",
     scores: [5, 3, 3, 2, 1, 1, 1, 2, 3, 2, 5]
   },
   {
