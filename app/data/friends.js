@@ -1,33 +1,33 @@
 var path = require("path");
 var friendsArray = [
   {
-    name: "Steven",
+    name: "Jojo",
     photo:
-      "https://vignette.wikia.nocookie.net/random-ness/images/5/52/TAEYANG-2016_31.jpg/revision/latest?cb=20160228133714",
+      "https://i.pinimg.com/1200x/ac/cb/71/accb714f31a4f1a990f2da671fa2d338.jpg",
     scores: [5, 3, 3, 2, 1, 1, 1, 2, 3, 2, 5]
   },
   {
-    name: "Stephanie",
+    name: "Lauren",
     photo:
-      "https://vignette.wikia.nocookie.net/arrow/images/3/3c/Celina_Jade.png/revision/latest?cb=20130214084501",
+      "https://i.pinimg.com/originals/11/8c/2b/118c2bf76a7a322b1a331ccc7976bfa5.jpg",
     scores: [5, 4, 3, 2, 1, 4, 4, 2, 3, 2, 5]
   },
   {
-    name: "Sonia",
+    name: "Lourdes",
     photo:
-      "https://vignette.wikia.nocookie.net/hawaiifiveo/images/2/24/Grace_Park.png/revision/latest?cb=20160222122623",
+      "https://i.pinimg.com/564x/c0/a2/70/c0a2700164da10ddc6035d93e36ffac4.jpg",
     scores: [5, 5, 3, 2, 3, 3, 5, 2, 3, 3, 5]
   },
   {
-    name: "Stephen",
+    name: "Momma",
     photo:
-      "https://images-na.ssl-images-amazon.com/images/M/MV5BNTg1OTYzOTc1OV5BMl5BanBnXkFtZTcwMjc5NjU3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+      "https://i.pinimg.com/564x/29/f0/3b/29f03baf35f0cdf28727025ecf00b362.jpg",
     scores: [5, 2, 3, 2, 1, 2, 1, 2, 3, 4, 4]
   },
   {
-    name: "Sophia",
+    name: "Meredith",
     photo:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rainie_Yang_2010.jpg/220px-Rainie_Yang_2010.jpg",
+      "http://img-aws.ehowcdn.com/750x428p/s3.amazonaws.com/cuteness_data/s3fs-public/diy_blog/How-Big-Do-Teacup-Piglets-Get.jpg",
     scores: [5, 1, 3, 2, 1, 3, 1, 2, 3, 1, 5]
   }
 ];
